@@ -1,0 +1,83 @@
+@charset 'utf-8';
+
+/* Fontface */
+
+@font-face {
+  font-family: 'RixSGo L';
+  font-style: normal;
+  font-weight: normal;
+  src: url('https://s.typolink.co.kr/g/3739030293519591e05d8171c657d520f97ed748.eot');
+  src: url('https://s.typolink.co.kr/g/3739030293519591e05d8171c657d520f97ed748.eot?#iefix') format('embedded-opentype'), url('https://s.typolink.co.kr/g/3739030293519591e05d8171c657d520f97ed748.woff') format('woff'), url('https://s.typolink.co.kr/g/3739030293519591e05d8171c657d520f97ed748.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'RixSGo M';
+  font-style: normal;
+  font-weight: normal;
+  src: url('https://s.typolink.co.kr/g/1fcb0f40f6b3926d1b365db12fef34210beecdb0.eot');
+  src: url('https://s.typolink.co.kr/g/1fcb0f40f6b3926d1b365db12fef34210beecdb0.eot?#iefix') format('embedded-opentype'), url('https://s.typolink.co.kr/g/1fcb0f40f6b3926d1b365db12fef34210beecdb0.woff') format('woff'), url('https://s.typolink.co.kr/g/1fcb0f40f6b3926d1b365db12fef34210beecdb0.ttf') format('truetype');
+}
+
+/*
+@font-face {
+    font-family: 'NanumGothic';
+    src: url('../fonts/NanumGothic.eot?iefix') format('eot'),
+         url('../fonts/NanumGothic.svg#webfontysz32sPA') format('svg'),
+		 url('../ko/fonts/NanumGothic.woff') format('woff'),
+         url('/etc/designs/iope/iope2014/kr/ko/fonts/NanumGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    src: url('../fonts/NanumGothicBold.eot');
+    src: url('../fonts/NanumGothicBold.eot?iefix') format('eot'),
+		 url('../fonts/NanumGothicBold.svg#webfontysz32sPA') format('svg'),
+         url('../fonts/NanumGothicBold.woff') format('woff'),
+         url('../fonts/NanumGothicBold.ttf') format('truetype');
+         src: url('../fonts/NanumGothic.eot');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    src: url('/etc/designs/iope/iope2014/kr/ko/fonts/NanumGothicLight.eot');
+    src: url('/etc/designs/iope/iope2014/kr/ko/fonts/NanumGothicLight.eot?iefix') format('eot'),
+		 url('/etc/designs/iope/iope2014/kr/ko/fonts/NanumGothicLight.svg#webfontysz32sPA') format('svg'),
+         url('/etc/designs/iope/iope2014/kr/ko/fonts/NanumGothicLight.woff') format('woff'),
+         url('/etc/designs/iope/iope2014/kr/ko/fonts/NanumGothicLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+*/
+
+@font-face {
+  font-family: 'Arita-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/AritaMedium.eot');
+  src: url('../fonts/AritaMedium.eot?#iefix') format('eot'), url('../fonts/AritaMedium.woff') format('woff'), url('../fonts/AritaMedium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Arita-SemiBold';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/AritaSemiBold.eot');
+  src: url('../fonts/AritaSemiBold.eot?#iefix') format('eot'), url('../fonts/AritaSemiBold.woff') format('woff'), url('../fonts/AritaSemiBold.ttf') format('truetype');
+}
+/*
+@font-face {
+  font-family: 'ARITA-BURI';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/AritaburiMedium.eot');
+  src: url('../fonts/AritaburiMedium.eot?#iefix') format('eot'), url('../fonts/AritaburiMedium.woff') format('woff');
+}*/
+@font-face {
+  font-family: 'Arita-Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/AritaBold.eot');
+  src: url('../fonts/AritaBold.eot?#iefix') format('embedded-opentype'), url('../fonts/AritaBold.woff') format('woff'), url('../fonts/AritaBold.ttf') format('truetype');
+}
