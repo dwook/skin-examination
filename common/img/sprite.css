@@ -1,0 +1,16 @@
+.ico_check_big{display:block;overflow:hidden;position:relative;width:28px;height:25px;margin:-1px;padding:1px;font-size:12px}
+.ico_check_big span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:28px;height:25px;background:url(../img/.png) 0 0 no-repeat}
+.ico_check_small{display:block;overflow:hidden;position:relative;width:22px;height:19px;margin:-1px;padding:1px;font-size:12px}
+.ico_check_small span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:22px;height:19px;background:url(../img/.png) -60px 0 no-repeat}
+.ico_check_small_m{display:block;overflow:hidden;position:relative;width:26px;height:23px;margin:-1px;padding:1px;font-size:12px}
+.ico_check_small_m span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:26px;height:23px;background:url(../img/.png) -30px 0 no-repeat}
+.ico_depth{display:block;overflow:hidden;position:relative;width:5px;height:9px;margin:-1px;padding:1px;font-size:12px}
+.ico_depth span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:5px;height:9px;background:url(../img/.png) 0 -30px no-repeat}
+.ico_search_small{display:block;overflow:hidden;position:relative;width:21px;height:20px;margin:-1px;padding:1px;font-size:12px}
+.ico_search_small span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:21px;height:20px;background:url(../img/.png) -60px -30px no-repeat}
+.ico_search_small_m{display:block;overflow:hidden;position:relative;width:24px;height:23px;margin:-1px;padding:1px;font-size:12px}
+.ico_search_small_m span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:24px;height:23px;background:url(../img/.png) -30px -30px no-repeat}
+.img_check{display:block;overflow:hidden;position:relative;width:61px;height:51px;margin:-1px;padding:1px;font-size:12px}
+.img_check span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:61px;height:51px;background:url(../img/.png) 0 -60px no-repeat}
+.tit_skin{display:block;overflow:hidden;position:relative;width:300px;height:29px;margin:-1px;padding:1px;font-size:12px}
+.tit_skin span{cursor:pointer;display:block;position:absolute;top:1px;left:1px;width:300px;height:29px;background:url(../img/.png) -90px 0 no-repeat}
